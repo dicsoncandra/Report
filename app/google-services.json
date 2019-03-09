@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "565468700025",
+    "firebase_url": "https://report-f7656.firebaseio.com",
+    "project_id": "report-f7656",
+    "storage_bucket": "report-f7656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565468700025:android:70e063388fb98c21",
+        "android_client_info": {
+          "package_name": "com.example.lazykid.report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565468700025-7221begn9987slp0g9jrc21j4v33589l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBePiAglWqvp1MZhqwBSNJQ7l4cgg9LA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
